@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  background-color: #101010;
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+a {
+  color: white;
+}
+
+.header {
+  height: 50px;
+  background-color: #080808;
+  color: white;
+  line-height: 50px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.video {
+  display: flex;
+  margin: 30px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.description {
+  margin: 30px;
+}
+
+.resources {
+  margin: 30px;
+}
+
+.footer {
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  background-color: #181818;
+}

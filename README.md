@@ -13,7 +13,7 @@ It contains the following files:
 
 It's set up to be a GitHub template. To use it as a template, do the following:
 
-- Select "Use this template", or go to <https://github.com/softchris/swa-copy/generate>
+- Select "Use this template", or go to <https://github.com/MicrosoftDocs/swa-template>
 
 ## Resources
 
